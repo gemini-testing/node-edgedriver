@@ -1,5 +1,5 @@
 {
-  "name": "edgedriver",
+  "name": "@testplane/edgedriver",
   "version": "6.1.2",
   "description": "Microsofts' EdgeDriver for Node.js",
   "homepage": "https://webdriver.io",
