@@ -1,5 +1,5 @@
 import os from 'node:os'
-import logger, { type Logger } from '@wdio/logger'
+import logger, { type Logger } from '@testplane/wdio-logger'
 
 export const TAGGED_VERSIONS = ['stable', 'beta', 'dev', 'canary']
 export const BASE_CDN_URL = (
